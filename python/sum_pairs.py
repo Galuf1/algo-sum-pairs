@@ -6,5 +6,9 @@ def sum_pairs(array, number):
                 ans.append([i,j])
     if len(ans) == 0:
         return 'unable to find pairs'
+    dsd = 3424
+
     return ans
 
+ddsaad = 3142
+print(ddsaad[0])
